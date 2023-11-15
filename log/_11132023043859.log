@@ -1,5 +1,0 @@
-Start to run Python Script
-upload failed: ./cus_id.json to s3://{bucket}/{folder}/cus_id.json Parameter validation failed:
-Invalid bucket name "{bucket}": Bucket name must match the regex "^[a-zA-Z0-9.\-_]{1,255}$" or be an ARN matching the regex "^arn:(aws).*:(s3|s3-object-lambda):[a-z\-0-9]*:[0-9]{12}:accesspoint[/:][a-zA-Z0-9\-.]{1,63}$|^arn:(aws).*:s3-outposts:[a-z\-0-9]+:[0-9]{12}:outpost[/:][a-zA-Z0-9\-]{1,63}[/:]accesspoint[/:][a-zA-Z0-9\-]{1,63}$"
-{'api': {'api_url': 'https://virtserver.swaggerhub.com/wcd_de_lab/top10/1.0.0/add'}, 's3': {'bucket': 'week3-mysql-project', 'folder': 'input'}, 'db': {'host': 'cth5o34gqq1v.us-east-2.rds.amazonaws.com', 'port': 3306, 'database': 'database-1', 'schema': 'superstore'}, 'run': {'py_script': 'run.py'}}
-PROGRAM SUCCEEDED
