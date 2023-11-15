@@ -1,0 +1,4 @@
+Start to run Python Script
+Completed 148 Bytes/148 Bytes (631 Bytes/s) with 1 file(s) remainingupload: ./cus_id.json to s3://week3-mysql-project/input/cus_id.json 
+{'api': {'api_url': 'https://virtserver.swaggerhub.com/wcd_de_lab/top10/1.0.0/add'}, 's3': {'bucket': 'week3-mysql-project', 'folder': 'input'}, 'db': {'host': 'cth5o34gqq1v.us-east-2.rds.amazonaws.com', 'port': 3306, 'database': 'database-1', 'schema': 'superstore'}, 'run': {'py_script': 'run.py'}}
+PROGRAM SUCCEEDED
